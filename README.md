@@ -11,7 +11,6 @@ This repository contains a collection of **custom Chrome extensions** designed t
 ## 📂 Extensions Included  
 - **[YT Bookmarks]**: [This chrome extension can be used as a bookmark to youtube videos.....].  
 - **[Color Picker Pro]**: [This chrome extension is used to extract hex code of different colors from different elements of a webpage....].  
-- ... (Add more based on content).  
 
 ## 📜 How to Use an extension 
 1. Clone the repository.  
