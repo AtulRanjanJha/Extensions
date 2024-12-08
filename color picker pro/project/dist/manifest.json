@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Color Picker",
+  "version": "1.0",
+  "description": "Extract hex color codes from any element on hover",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_title": "Color Picker"
+  },
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "js": ["content.js"],
+    "css": ["styles.css"]
+  }]
+}

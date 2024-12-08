@@ -1,0 +1,11 @@
+.color-picker-tooltip {
+  position: fixed;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-family: monospace;
+  font-size: 14px;
+  pointer-events: none;
+  z-index: 999999;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  display: none;
+}
